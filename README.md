@@ -79,17 +79,7 @@ Conditional logic using showIf
 Data Sync Strategy
 Save locally → instant persistence
 Sync with Firebase → backup & restore
-🔥 Firebase Data Structure
-progress/
-  └── user_<timestamp>/
-        ├── userId: string
-        ├── answers: {
-        │     step1: string,
-        │     step2: string,
-        │     ...
-        │   }
-        ├── currentStepIndex: number
-        └── updatedAt: timestamp
+
         
 👩‍💻 Author
 Kanchan Kulkarni
